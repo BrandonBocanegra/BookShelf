@@ -1,8 +1,8 @@
 //************************************************************
 // BBBook.java               Author:Brandon Bocanegra
 // 
-// Book Programming Assignment Chapter 4
-// Due 10/15/23
+// 
+// 
 // Write a class called Book that contains instance data for
 // the title, author, publisher, and copyright date.
 //************************************************************
